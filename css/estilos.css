@@ -1,0 +1,71 @@
+.navbar-brand {
+   color: #FFFFFF !important; 
+}
+
+.navbar-custom  {
+    background-color: #986868 !important; 
+ }
+
+ .nav-link {
+    color: #E4E4E6 !important; 
+    align-items: right; 
+ }
+
+ body {
+    background: #E4E4E6 url("../img/fondo.png");
+    background-size: cover;
+}
+
+.carousel-inner{
+    height: 450px;
+}
+
+.carousel-inner img {
+    width:100%;
+    height:370px;
+       
+}
+
+.textHome{
+
+    text-align: center;
+    color: #B1A4AD;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer_area{
+
+    color:#B1A4AD;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    width: 100%;
+    height: 90px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    
+}
+
+.textRegistro{
+
+    color:#B1A4AD;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.btn {
+
+    background-color: #789498;
+    border-color: #789498 ;
+  }
+
+.btn-block:hover{
+    background-color:#986868;
+    border-color:#986868;
+    }
+
+.card-body{
+    color:  #986868;
+}
